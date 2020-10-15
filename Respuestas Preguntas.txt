@@ -1,0 +1,23 @@
+Git es un software de control de versiones centralizado:Falso
+
+Git fue inicialmente diseñado y desarrollado por:Linus Torvalds
+
+Las tres secciones principales de un proyecto de Git son: Directorio de trabajo (working directory), Area de preparación (staging area) y el Repositorio (repository):Verdadero
+
+En el ____________ se almacena información información acerca de lo que va a ir en tu próxima revisión (commit):Area de Preparación
+
+El mecanismo que usa Git para generar esta suma de comprobación se conoce como hash _______. Se trata de una cadena de 40 caracteres hexadecimales (0-9 y a-f), y se calcula en base a los contenidos del archivo o estructura de directorios en Git:SHA-1
+
+¿Qué comando es necesario para crear un repositorio? git init
+
+Si deseas obtener una copia de un repositorio Git existente en GitHub, el comando que necesitas es :git clone
+
+¿Cuál es el comando utilizado para listar los cambios (commits) que han producido en el repositorio?:git log
+
+Para añadir contenido al área de preparación (staging area), utilizo el siguiente comando:git add
+
+Lista todas las ramas (branches) disponibles localmente:git branch
+
+Atajo que proporciona git, si quieres saltarte el área de preparación:git commit -a
+
+¿Cuál de los siguientes comandos crea una nueva rama local llamada develop?:git checkout -b develop
