@@ -1,4 +1,4 @@
-Git es un software de control de versiones centralizado:Falso
+Git es un software de control de versiones centralizado:Falso.
 
 Git fue inicialmente diseñado y desarrollado por:Linus Torvalds
 
